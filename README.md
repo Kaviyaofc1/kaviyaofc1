@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Aqua Md](github.com/kaviyaofc1/AQUABOT-MD)
 
-- 🌱 I’m currently learning **Python Language,C##**
+- 🌱 I’m currently learning **Python Language,B##**
 
 - 👯 I’m looking to collaborate on [Queen Elisa](github.com/kaviyaofc1/QUEEN-ELISA-MD)
 
