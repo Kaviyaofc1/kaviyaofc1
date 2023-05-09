@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyaofc1" alt="kaviyaofc1" /></a> </p>
 
-- 🔭 I’m currently working on [KAVIYA-OFC Bot MD](github.com/kaviyaofc1/KAVIYA-OFC)
+- 🔭 I’m currently working on [Github](github.com/kaviyaofc1)
 
 - 🌱 I’m currently learning **Python Language,B##**
 
